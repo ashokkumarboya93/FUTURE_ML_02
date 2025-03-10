@@ -71,11 +71,4 @@ Predict box office revenue:
 
 python predict.py
 
-📝 Contribution
-
-Feel free to open issues or submit pull requests if you have improvements!
-
-📩 Contact
-
-For any questions, reach out via GitHub Issues or email: your-email@example.com
 
